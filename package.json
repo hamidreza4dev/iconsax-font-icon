@@ -1,7 +1,7 @@
 {
   "name": "iconsax-font-icon",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "dist/icons.css",
   "scripts": {
     "start": "fantasticon -c fantasticonrc.js"
   },
