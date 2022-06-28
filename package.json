@@ -1,7 +1,6 @@
 {
   "name": "iconsax-font-icon",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "fantasticon -c fantasticonrc.js"
@@ -11,5 +10,14 @@
   "license": "ISC",
   "devDependencies": {
     "fantasticon": "^1.2.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hamidreza4dev/iconsax-font-icon.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hamidreza4dev/iconsax-font-icon/issues"
+  },
+  "homepage": "https://github.com/hamidreza4dev/iconsax-font-icon#readme",
+  "description": ""
 }
