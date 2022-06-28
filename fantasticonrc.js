@@ -3,7 +3,7 @@ module.exports = {
   outputDir: './dist/fonts',
   fontTypes: ['ttf', 'woff', 'woff2', 'eot'],
   assetTypes: ['css'],
-  fontsUrl: '../fonts',
+  fontsUrl: './fonts',
   pathOptions: {
     css: './dist/icons.css',
   },
