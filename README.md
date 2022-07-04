@@ -1,5 +1,5 @@
 ## iconsax-font-icon
-this package helps you to easily use [iconsax]([Figma](https://www.figma.com/community/file/995152741314467050)) with font icons in your projects
+this package helps you to easily use [iconsax](https://www.figma.com/community/file/995152741314467050) with font icons in your projects
 
 ### instalation
 ```shell
